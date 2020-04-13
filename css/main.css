@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background: url(../img/speedmaster.jpg) no-repeat center center fixed;
   height: 100%;
 }
 
@@ -126,6 +126,9 @@ body {
   width: 30%;
   justify-content: center;
   align-items: center;
+  border-style: solid;
+  border-color: #0e0e0c;
+  border-width: 10px;
 }
 
 
